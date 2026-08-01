@@ -1,0 +1,41 @@
+Privacy Policy for JingurBot
+Last Updated: August 2026
+
+This Privacy Policy explains how JingurBot ("we", "us", "our") collects, uses, and protects your information when you interact with the bot on Discord. By using JingurBot, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+To provide our economy and gaming features, we must collect and store certain data from Discord. We only collect the minimum amount of data required for the bot to function.
+
+Data Collected:
+
+Discord User IDs: Used as unique identifiers to create and maintain your profile, inventory, and balance.
+Discord Server (Guild) IDs: Used to isolate economy data per server (if applicable) and manage server-specific configurations.
+Virtual Economy Data: Data generated through your interaction with the bot, including but not limited to virtual balances, items, cars, job progress, and gaming statistics.
+Interaction Data: Command usage logs (e.g., when you run a command) may be temporarily stored for debugging, rate-limiting, and error tracking.
+Data NOT Collected:
+
+We do not read, log, or store your private messages or general server messages unless you are explicitly interacting with a bot command (e.g., typing an answer for a /work task).
+We do not ask for or store passwords, emails, or real-life personal information.
+2. How We Use Your Information
+The collected data is used exclusively to:
+
+Provide and maintain the bot's core features (economy, games, inventories).
+Save your progression, purchases, and game states across sessions.
+Prevent abuse, exploiting, or cheating (e.g., tracking suspicious transaction patterns).
+Improve the bot's performance by debugging errors and crashes.
+3. Data Storage and Security
+All persistent data (balances, inventories, user states) is securely stored using modern database solutions (e.g., Supabase/PostgreSQL).
+
+We employ industry-standard security measures to prevent unauthorized access to this database.
+We do not sell, rent, or share your data with any third parties, advertisers, or external organizations.
+4. Data Retention and Deletion
+Your data is retained for as long as you continue to use the bot.
+
+Account Wipes: Server administrators or the bot developers reserve the right to wipe or reset economy data (e.g., during a major update or if an exploit is found).
+Requesting Deletion: You have the right to request the complete deletion of your data from our database. To request data deletion, please contact the bot owner or use the designated support channels on Discord. Once processed, your balance, inventory, and stats will be permanently erased.
+5. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify users of any significant changes by posting an announcement in our support server or through the bot's update commands.
+
+6. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact the bot developer/owner directly through Discord.
+
